@@ -14,9 +14,13 @@ Reflexion: Während der Aufgabe habe ich gelernt, wie wichtig regelmässige Back
 ---
 # 13.09.2024 Arbeitspakete:
 Mein ziel ist eine budget Tracker zu erstellen. Das werde ich mit der hilfe von Csharp und Wpf machen
+
 [X]erste AP: Projekt starten, SQLite einrichten, Datenbank und Tabelle erstellen.
+
 [X]zweite AP:Methoden zum Hinzufügen und Abrufen von Transaktionen in der Datenbank implementieren und testen.
+
 []dritte AP :WPF-Benutzeroberfläche mit Eingabefeldern und Buttons entwerfen.
+
 []Vierte AP: Funktionen zum Speichern von Transaktionen und Berechnen des Budgets in die UI integrieren und testen
 
 
