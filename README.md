@@ -29,13 +29,13 @@ Reflexion:  Ich habe wiederholt, wie man ein C#-Projekt mit WPF und SQLite struk
 
 # 20.09.2024 Arbeitspakete:
 
-[X]erste AP:
+[]erste AP: ich versuche 4 Szenarien für das Projekt LB 322
 
-[X]zweite AP: robin und ich erstellen 4 Szenarien und 6 User Stories für das Projekt in M322
+[]zweite AP: robin und ich erstellen 6 User Stories für das Projekt in M322
 
-[x]dritte AP : Robin und ich erstellen den Low-Fidelity Prototyp für das Projekt in M322
+[]dritte AP : Robin und ich erstellen den Low-Fidelity Prototyp für das Projekt in M322
 
-[x]Vierte AP: Robin und ich evaluieren den Low-Fidelity Protoyp für das Projekt in M322
+[]Vierte AP: Robin und ich evaluieren den Low-Fidelity Protoyp für das Projekt in M322
 
 
 
