@@ -19,9 +19,11 @@ Mein ziel ist eine budget Tracker zu erstellen. Das werde ich mit der hilfe von 
 
 [X]zweite AP:Methoden zum Hinzufügen und Abrufen von Transaktionen in der Datenbank implementieren und testen.
 
-[]dritte AP :WPF-Benutzeroberfläche mit Eingabefeldern und Buttons entwerfen.
+[x]dritte AP :WPF-Benutzeroberfläche mit Eingabefeldern und Buttons entwerfen.
 
-[]Vierte AP: Funktionen zum Speichern von Transaktionen und Berechnen des Budgets in die UI integrieren und testen
+[x]Vierte AP: Funktionen zum Speichern von Transaktionen und Berechnen des Budgets in die UI integrieren und testen
+
+Reflexion:   q
 
 
 
