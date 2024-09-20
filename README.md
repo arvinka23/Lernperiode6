@@ -23,7 +23,25 @@ Mein ziel ist eine budget Tracker zu erstellen. Das werde ich mit der hilfe von 
 
 [x]Vierte AP: Funktionen zum Speichern von Transaktionen und Berechnen des Budgets in die UI integrieren und testen
 
-Reflexion:   q
+Reflexion:  Ich habe wiederholt, wie man ein C#-Projekt mit WPF und SQLite strukturiert und entwickelt. Ich kann jetzt wieder eine einfache Benutzeroberfläche erstellen, Datenbankmethoden implementieren und diese in die UI integrieren. Ausserdem verstehe ich besser, wie man Daten speichert, abruft und das Budget berechnet. Das Aufteilen in Arbeitspakete hat mir geholfen, effizienter und organisierter zu arbeiten.
+
+---
+
+# 20.09.2024 Arbeitspakete:
+
+[X]erste AP:
+
+[X]zweite AP: robin und ich erstellen 4 Szenarien und 6 User Stories für das Projekt in M322
+
+[x]dritte AP : Robin und ich erstellen den Low-Fidelity Prototyp für das Projekt in M322
+
+[x]Vierte AP: Robin und ich evaluieren den Low-Fidelity Protoyp für das Projekt in M322
+
+
+
+
+
+
 
 
 
