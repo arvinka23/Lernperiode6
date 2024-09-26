@@ -31,6 +31,13 @@ Reflexion:  Ich habe wiederholt, wie man ein C#-Projekt mit WPF und SQLite struk
 
 Reflexion: wir haben die aufgabe 3 und 4 fertiggemacht und werden am nächste Donnerstag es fertigmachen.
 
+---
+
+## 26.09.2024 Arbeitspakete:
+
+- [] erste AP: Ich werde die Benutzeroberfläche mit Labels, Textboxen und Buttons erstellen, um die Eingabe und Anzeige der Transaktionen zu ermöglichen. Dabei sorge ich dafür, dass die Eingaben (Betrag und Beschreibung) vom Benutzer aufgenommen und validiert werden.
+- [] zweite AP:  Ich implementiere die Verbindung zur SQLite-Datenbank, um die Transaktionen (Beschreibung und Betrag) zu speichern und sicherzustellen, dass sie korrekt in die Datenbank geschrieben werden.
+- []  dritte AP : Ich lade bestehende Transaktionen aus der Datenbank und aktualisiere die Anzeige im ListBox-Element.
 
 
 
